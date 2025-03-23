@@ -31,6 +31,18 @@
 
 ###
 
+<h2 align="left">Final Year Project</h2>
+
+###
+
+<p align="left">
+<strong>SL-Auto Trade - (Grade A)</strong><br>
+Developed a comprehensive online vehicle marketplace as my final-year project, addressing traditional buying and selling challenges. Key features include advertisement management, interest-based notifications, real-time communication, vehicle inspections, solutions for unsold vehicles, and customized analytical reports, utilizing advanced web technologies to enhance efficiency and user experience.<br>
+<strong>Technologies:</strong> Laravel | Laravel Breeze | MVC | Bootstrap | SQL | PHP | HTML | CSS | JavaScript | AJAX | jQuery
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
