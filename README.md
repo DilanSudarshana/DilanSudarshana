@@ -77,7 +77,7 @@
   <li>Back-End Development: PHP, Laravel, Python, CodeIgniter</li>
   <li>Database Management: MySQL</li>
   <li>Mobile Development: Java, OOP concepts, Android Studio</li>
-  <li>Software Tools: Microsoft Visual Studio, .NET Framework, C#</li>
+  <li>Software Tools: Microsoft Visual Studio, C#</li>
   <li>Project Management: Leading and executing group projects</li>
   <li>Web Application Development: Real-world web applications</li>
   <li>UI/UX Design: Adobe Illustrator, Adobe After Effects</li>
