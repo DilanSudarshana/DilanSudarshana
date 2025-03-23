@@ -11,9 +11,8 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2021<br>
-📚 Currently pursuing a Bachelor of Information Technology External Degree at the University of Moratuwa (GPA: 3.81)<br>
-🎯 Goals: Becoming a full-stack Software Engineer and mastering cloud technologies<br>
+📚 Bachelor of Information Technology External Degree at the University of Moratuwa (GPA: 3.81)<br>
+🎯 Goals: Becoming a full-stack Software Engineer<br>
 🎲 Fun fact: I enjoy exploring new technologies and solving complex coding challenges.
 </p>
 
