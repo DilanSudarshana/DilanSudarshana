@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-📚 Bachelor of Information Technology External Degree at the University of Moratuwa (GPA: 3.81)<br>
+📚 Bachelor of Information Technology External Degree at the University of Moratuwa (GPA: 3.84)<br>
 🎯 Goals: Becoming a full-stack Software Engineer<br>
 🎲 Fun fact: I enjoy exploring new technologies and solving complex coding challenges.
 </p>
