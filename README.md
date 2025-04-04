@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
-🎓 Bachelor of Information Technology (External), University of Moratuwa (2021-Present) - GPA: 3.81<br>
+🎓 Bachelor of Information Technology (External), University of Moratuwa (2021-Present) - GPA: 3.84<br>
 📜 Information Technology Higher National Diploma, University of Moratuwa (2022-2023)<br>
 📜 Information Technology Diploma, University of Moratuwa (2021-2022)
 </p>
