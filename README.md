@@ -97,6 +97,19 @@ Developed a comprehensive online vehicle marketplace as my final-year project, a
 
 ###
 
+<h2 align="left">GitHub Activities</h2>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilanSudarshana&show_icons=true&theme=transparent&hide_border=true&border_radius=15&custom_title=My+GitHub+Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanSudarshana&layout=compact&theme=transparent&hide_border=true&border_radius=15" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilanSudarshana&theme=transparent&hide_border=true&border_radius=15&fire=00FFFF" />
+</p>
+
+
 <h2 align="left">Contact Me</h2>
 
 ###
