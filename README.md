@@ -30,6 +30,21 @@
 
 ###
 
+<h2 align="left">Work Experience</h2>
+
+###
+
+<p align="left">
+<strong>INTERN SOFTWARE ENGINEER</strong><br>
+VFT HOLDINGS (PVT) LTD - Maharagama (Jan 2025 – Jul 2025)<br>
+▪ Contributed to the development of internal systems using <strong>CodeIgniter, MySQL, and Vue.js</strong>.<br>
+▪ Collaborated with the development team to deliver production-ready features.<br>
+▪ Completed a 6-month internship working on a <strong>Human Resource Information System (HRIS)</strong>, 
+focusing on attendance tracking and payroll processing modules.
+</p>
+
+###
+
 <h2 align="left">Final Year Project</h2>
 
 ###
