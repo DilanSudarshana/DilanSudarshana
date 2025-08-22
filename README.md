@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-📚 Bachelor of Information Technology External Degree at the University of Moratuwa (GPA: 3.85 with First Class)<br>
+📚 Bachelor of Information Technology External Degree at the University of Moratuwa (First Class | GPA: 3.85)<br>
 🎯 Goals: Becoming a full-stack Software Engineer<br>
 🎲 Fun fact: I enjoy exploring new technologies and solving complex coding challenges.
 </p>
@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
-🎓 Bachelor of Information Technology (External), University of Moratuwa (2021-2025) - GPA: 3.84<br>
+🎓 Bachelor of Information Technology (External), University of Moratuwa (2021-2025)<br>
 📜 Information Technology Higher National Diploma, University of Moratuwa (2022-2023)<br>
 📜 Information Technology Diploma, University of Moratuwa (2021-2022)
 </p>
@@ -45,15 +45,48 @@ focusing on attendance tracking and payroll processing modules.
 
 ###
 
-<h2 align="left">Final Year Project</h2>
+<h2 align="left">Projects</h2>
 
-###
+---
+<p align="left">
+<strong>❖ VFT Payroll System</strong><br>
+Designed and implemented a payroll management system to automate employee salary processing, attendance tracking, and report generation, improving accuracy and reducing manual workload for HR operations.<br>
+<strong>Technologies:</strong> Laravel | MVC | MySQL | PHP | HTML | CSS | JavaScript | Bootstrap
+</p>
+
+---
 
 <p align="left">
-<strong>SL-Auto Trade - (Grade A)</strong><br>
+<strong>❖ Final Year Project – SL-Auto Trade (Grade A)</strong><br>
 Developed a comprehensive online vehicle marketplace as my final-year project, addressing traditional buying and selling challenges. Key features include advertisement management, interest-based notifications, real-time communication, vehicle inspections, solutions for unsold vehicles, and customized analytical reports, utilizing advanced web technologies to enhance efficiency and user experience.<br>
 <strong>Technologies:</strong> Laravel | Laravel Breeze | MVC | Bootstrap | SQL | PHP | HTML | CSS | JavaScript | AJAX | jQuery
 </p>
+
+---
+
+<p align="left">
+<strong>❖ Sun-Ray Auto</strong><br>
+Collaborated with a team to develop an online vehicle service reservation system that allows users to book services, manage schedules, and improve operational efficiency through a user-friendly web-based platform.<br>
+<strong>Technologies:</strong> Laravel | MVC | Bootstrap | SQL | PHP | HTML | CSS | JavaScript
+</p>
+
+---
+
+<p align="left">
+<strong>❖ Wijerathne Auto</strong><br>
+Implemented a stand-alone inventory management system during the ICT Project in the first year, streamlining inventory tracking, stock management, and report generation for improved operational efficiency.<br>
+<strong>Technologies:</strong> Visual Studio | SQL | C#
+</p>
+
+---
+
+<p align="left">
+<strong>❖ Field Survey App</strong><br>
+Created a mobile app for election campaign field surveys, incorporating location tracking and secure data storage, enabling efficient data collection and analysis during the campaign process.<br>
+<strong>Technologies:</strong> Android Studio | Java | SQLite | Google Maps API
+</p>
+
+---
 
 ###
 
