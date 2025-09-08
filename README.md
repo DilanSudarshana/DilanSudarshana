@@ -85,7 +85,8 @@ Implemented a stand-alone inventory management system during the ICT Project in 
 <p align="left">
 <strong>❖ Field Survey App</strong><br>
 Created a mobile app for election campaign field surveys, incorporating location tracking and secure data storage, enabling efficient data collection and analysis during the campaign process.<br>
-<strong>Technologies:</strong> Android Studio | Java | SQLite | Google Maps API
+<strong>Technologies:</strong> Android Studio | Java | SQLite | Google Maps API<br>
+<strong>Video Link:</strong> https://drive.google.com/file/d/1PtWUHBh9gb6cpniseMMOqhGzBPA5ylL1/view?usp=sharing
 </p>
 
 ---
