@@ -67,6 +67,14 @@ Developed a comprehensive online vehicle marketplace as my final-year project, a
 ---
 
 <p align="left">
+<strong>❖ StaffGo – Employee Attendance & Leave Management System</strong><br>
+Developed and implemented a comprehensive employee attendance and leave management system to streamline staff tracking, automate leave approvals, and generate real-time reports, enhancing workforce efficiency and reducing HR administrative workload.<br>
+<strong>Technologies:</strong> Vue.js | Node.js | Express.js | MySQL | JavaScript | CoreUI | Bootstrap | HTML | CSS
+</p>
+
+---
+
+<p align="left">
 <strong>❖ Sun-Ray Auto</strong><br>
 Collaborated with a team to develop an online vehicle service reservation system that allows users to book services, manage schedules, and improve operational efficiency through a user-friendly web-based platform.<br>
 <strong>Technologies:</strong> Laravel | MVC | Bootstrap | SQL | PHP | HTML | CSS | JavaScript
