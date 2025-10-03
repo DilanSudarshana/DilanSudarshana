@@ -69,7 +69,8 @@ Developed a comprehensive online vehicle marketplace as my final-year project, a
 <p align="left">
 <strong>❖ StaffGo – Employee Attendance & Leave Management System</strong><br>
 Developed and implemented a comprehensive employee attendance and leave management system to streamline staff tracking, automate leave approvals, and generate real-time reports, enhancing workforce efficiency and reducing HR administrative workload.<br>
-<strong>Technologies:</strong> Vue.js | Node.js | Express.js | MySQL | JavaScript | CoreUI | Bootstrap | HTML | CSS
+<strong>Technologies:</strong> Vue.js | Node.js | Express.js | MySQL | JavaScript | CoreUI | Bootstrap | HTML | CSS<br>
+<strong>Video Link:</strong>https://drive.google.com/file/d/1XbtbE5ZX9MsKTBOvcipRYkotYxT45-Lb/view?usp=sharing
 </p>
 
 ---
