@@ -23,9 +23,9 @@
 ###
 
 <p align="left">
-🎓 Bachelor of Information Technology (External), University of Moratuwa (2021-2025)<br>
-📜 Information Technology Higher National Diploma, University of Moratuwa (2022-2023)<br>
-📜 Information Technology Diploma, University of Moratuwa (2021-2022)
+🎓 Bachelor of Information Technology (External), University of Moratuwa (2022-2025)<br>
+📜 Information Technology Higher National Diploma, University of Moratuwa (2023-2024)<br>
+📜 Information Technology Diploma, University of Moratuwa (2022-2023)
 </p>
 
 ###
